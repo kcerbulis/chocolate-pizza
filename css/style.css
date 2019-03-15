@@ -1,0 +1,26 @@
+.siteName {
+  background-color: rebeccapurple;
+    width: 63%;
+    /* float: left; */
+    margin-left: 50px;
+    height: 51px;
+
+}
+
+.sitePicElement {
+  
+}
+
+#knifeFork {
+  right: 20px;
+  height: auto;
+  width: auto;
+  float: left;
+  margin-top: -51px;
+}
+
+.siteBox {
+  background-color: orange;
+  height: 100px;
+  width: 47%;
+}
