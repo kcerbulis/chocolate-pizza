@@ -1,3 +1,7 @@
+body {
+  margin-left: 9%;
+}
+
 .siteName {
   /* background-color: rebeccapurple; */
     width: 63%;
@@ -32,7 +36,7 @@
 
 .top {
   /* background-color: salmon; */
-  width: 80%;
+  width: 69%;
   margin-left: 10%;
   margin-top: 5%;
 
@@ -45,4 +49,24 @@
 
 .slogan {
   font-size: 8px;
+}
+
+main {
+  /* background-color: hotpink; */
+  width: 80%;
+  margin-left: 10%;
+}
+
+.recipeTitle {
+  /* background-color: greenyellow; */
+  width: 200px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+.postedOn {
+  font-size: 8px;
+  font-family: 'Roboto Mono', monospace;
+  opacity: 0.6;
+  margin-top: -21px;
 }
