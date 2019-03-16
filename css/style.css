@@ -70,3 +70,47 @@ main {
   opacity: 0.6;
   margin-top: -21px;
 }
+
+p {
+  text-indent: 3%;
+}
+
+article {
+  width: 87%;
+  margin-bottom: 3%;
+}
+
+.pizzaPic {
+  margin-bottom: 3%;
+}
+
+.dividerLine {
+  border-top: 3px double #8c8b8b;
+  width: 69%;
+  margin-left: 10%;
+}
+
+.dividerLiner {
+  border-top: 3px double #8c8b8b;
+  width: 86%;
+  margin-left: 0%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.authorBox {
+  height: 100px;
+  width: 700px;
+}
+
+.authorInfo {
+  height: 80px;
+    width: 600px;
+    margin-left: 13%;
+    margin-top: -13%;
+}
+
+.authorBio {
+  font-size: 14px;
+  width: 412px;
+}
